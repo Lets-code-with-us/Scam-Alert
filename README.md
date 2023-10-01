@@ -8,7 +8,6 @@ Check [Contributing.md](https://github.com/avinash201199/AvoidScams/blob/main/CO
 
 ## Online Hiring Scams
 
-
 <details>
 <summary>Scam in the name of Naukri.com</summary>
 <br>
@@ -26,7 +25,7 @@ The caller proposed a solution, suggesting that I pay Rs. 7,400 while staying on
 Reference link - <br>
 https://www.linkedin.com/feed/update/urn:li:activity:7072537019981168640/<br>
 <br>
-
+</details>
 
 ## Online Shopping Scams
 
@@ -64,7 +63,6 @@ UPI PIN or ID.
 Reference :<br> https://cyber.delhipolice.gov.in/OLX.html<br>
 https://www.indiatvnews.com/technology/news-caught-in-online-money-scam-cybercrime-expert-tells-you-what-to-do-next-679882<br>
 https://cyberforensics.miniorange.com/olx-fraud#:~:text=These%20ads%20may%20include%20pictures,pay%20the%20amount%20in%20advance.<br>
-
 
 </details>
 
