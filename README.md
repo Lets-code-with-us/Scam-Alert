@@ -117,5 +117,5 @@ Reference :<br> https://www.bajajfinserv.in/insurance/secure-yourself-from-atm-f
 
 <hr>
 
-For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
+For any query contact us here - [instagram](https://www.instagram.com/lets__code/) <br>
 You can also dm us on [Linkedin](https://www.linkedin.com/company/lets-code-forever)
