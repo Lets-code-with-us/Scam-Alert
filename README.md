@@ -96,4 +96,6 @@ So, please avoid any WhatsApp messages that resemble this.
 
 ## 4. Credit , Debit , ATM card scams 
 
+<hr>
+
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
