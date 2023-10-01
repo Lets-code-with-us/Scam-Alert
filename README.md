@@ -6,7 +6,7 @@ The repository serves as a valuable resource for individuals of all backgrounds 
 
 Check [Contributing.md](https://github.com/avinash201199/AvoidScams/blob/main/CONTRIBUTING.md) file to contribute
 
-## Online Hiring Scams
+## 1. Online Hiring Scams
 
 <details>
 <summary>Scam in the name of Naukri.com</summary>
@@ -27,7 +27,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7072537019981168640/<br>
 <br>
 </details>
 
-## Online Shopping Scams
+## 2. Online Shopping Scams
 
 <details>
   <summary>Olx Scam</summary>
@@ -67,7 +67,7 @@ https://cyberforensics.miniorange.com/olx-fraud#:~:text=These%20ads%20may%20incl
 </details>
 
 
-## Social Media Scams
+## 3. Social Media Scams
 
 <details>
 <summary><h3>Youtube like and subscribe scam</h3></summary>
@@ -85,5 +85,7 @@ Many LinkedIn posts report the same.
   
 So, please avoid any WhatsApp messages that resemble this.
 </details>
+
+## 4. Credit , Debit , ATM card scams 
 
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
