@@ -4,7 +4,7 @@ The repository serves as a valuable resource for individuals of all backgrounds 
 
 
 
-Check [Contributing.md](https://github.com/avinash201199/AvoidScams/blob/main/CONTRIBUTING.md) file to contribute
+Check [Contributing.md](https://github.com/Lets-code-with-us/Scam-Alert/blob/main/Contributing.md) file to contribute
 
 <hr>
 
