@@ -26,7 +26,7 @@
        Reference link any or ss
    </details>
    ```
-4. For example see the structure [here](https://github.com/avinash201199/AvoidScams/tree/main/Job%20Hiring%20Frauds)
+
 
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
 
