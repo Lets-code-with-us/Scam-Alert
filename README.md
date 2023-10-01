@@ -76,7 +76,7 @@ https://cyberforensics.miniorange.com/olx-fraud#:~:text=These%20ads%20may%20incl
 ## 3. Social Media Scams
 
 <details>
-<summary><h3>Youtube like and subscribe scam</h3></summary>
+<summary>Youtube like and subscribe scam</summary>
   
 Recently, a scam has been prevalent where they will ask you to like and subscribe to YouTube videos, and in return, they will promise you money.
 The message typically looks like this:
