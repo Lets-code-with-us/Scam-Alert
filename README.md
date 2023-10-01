@@ -102,9 +102,9 @@ So, please avoid any WhatsApp messages that resemble this.
 
 Credit, debit, and ATM card scams are a growing concern worldwide. 
 Fraudsters use various methods such as: <br>
-*phishing: In phishing, scammers trick you into providing your card details via email or phone 
-*skimming: Skimming involves copying card information using a device when you use your card at ATMs or point of sale terminal
-*card trapping: Card trapping is where the card is physically captured by the ATM machine which has been manipulated by the scammer. 
+*phishing: In phishing, scammers trick you into providing your card details via email or phone <br>
+*skimming: Skimming involves copying card information using a device when you use your card at ATMs or point of sale terminal <br>
+*card trapping: Card trapping is where the card is physically captured by the ATM machine which has been manipulated by the scammer. <br>
 
 Always be cautious when using your cards and never share your PIN or CVV number with anyone.
 
