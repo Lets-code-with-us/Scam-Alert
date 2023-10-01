@@ -27,6 +27,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7072537019981168640/<br>
 <br>
 </details>
 
+<hr>
+<br>
+
 ## 2. Online Shopping Scams
 
 <details>
@@ -66,6 +69,8 @@ https://cyberforensics.miniorange.com/olx-fraud#:~:text=These%20ads%20may%20incl
 
 </details>
 
+<hr>
+<br>
 
 ## 3. Social Media Scams
 
@@ -85,6 +90,9 @@ Many LinkedIn posts report the same.
   
 So, please avoid any WhatsApp messages that resemble this.
 </details>
+
+<hr>
+<br>
 
 ## 4. Credit , Debit , ATM card scams 
 
