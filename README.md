@@ -1,6 +1,8 @@
 # AvoidScams
 
-The repository serves as a valuable resource for individuals of all backgrounds to come together and share their encounters with various scams. Whether you have received a suspicious email, encountered a fraudulent website, or experienced a deceptive social engineering technique, your contribution can make a significant difference. By documenting these scams, we aim to create a comprehensive database that empowers users to identify and steer clear of potential threats.
+The repository serves as a valuable resource for individuals of all backgrounds to come together and share their encounters with various scams. Whether you have received a suspicious email, encountered a fraudulent website, or experienced a deceptive social engineering technique, your contribution can make a significant difference. By documenting these scams, we aim to create a comprehensive database that empowers users to identify and steer clear of potential threats. <br>
+
+[Website Link](https://lets-code-with-us.github.io/Scam-Alert/)
 
 
 
